@@ -15,7 +15,7 @@ The Wikipedia Search Application is designed to deliver a user-friendly experien
 
 ## Demo
 
-You can view a live demo of the project [here](https://your-demo-link.com).
+You can view a live demo of the project https://sudewikipedia.ccbp.tech
 
 ## Installation
 
